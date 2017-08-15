@@ -1,1 +1,3 @@
-alert('connected')
+require('./app.scss');
+
+console.log('connected')
